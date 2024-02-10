@@ -1,0 +1,13 @@
+body
+{
+    background-color:rgb(255, 175, 28);
+}
+.wheel
+{
+    border:5px;
+    background-color:red;
+    border-radius:100px;
+    height:200px;
+    width:200px;
+    margin-top:100px;
+}
