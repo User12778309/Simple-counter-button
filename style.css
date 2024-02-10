@@ -10,4 +10,10 @@ body
     height:200px;
     width:200px;
     margin-top:100px;
+    cursor:pointer;
+}
+.wheel:hover
+{
+    transition:0.5s;
+    scale:1.25;
 }
