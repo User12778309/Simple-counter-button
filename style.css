@@ -45,3 +45,15 @@ body
     transition:0.5s;
     scale:1.25;
 }
+
+.header
+{
+    border:5px solid red;
+    margin-top:100px;
+}
+
+.nombre
+{
+    margin-top:100px;
+    font-size:75px;
+}
