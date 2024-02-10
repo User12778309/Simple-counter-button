@@ -2,18 +2,33 @@ body
 {
     background-color:orange;
 }
+
 .dark_mode_button
 {
     font-size:25px;
     border-radius:25px;
     padding:10px;
 }
+
 .normal_mode_button
 {
     font-size:25px;
     border-radius:25px;
     padding:10px;
 }
+
+.normal_mode_button:hover
+{
+    transition:0.5s;
+    scale:1.25;
+}
+
+.dark_mode_button:hover
+{
+    transition:0.5s;
+    scale:1.25;
+}
+
 .wheel
 {
     border:5px;
@@ -24,6 +39,7 @@ body
     margin-top:100px;
     cursor:pointer;
 }
+
 .wheel:hover
 {
     transition:0.5s;
