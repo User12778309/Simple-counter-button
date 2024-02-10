@@ -1,6 +1,18 @@
 body
 {
-    background-color:rgb(255, 175, 28);
+    background-color:orange;
+}
+.dark_mode_button
+{
+    font-size:25px;
+    border-radius:25px;
+    padding:10px;
+}
+.normal_mode_button
+{
+    font-size:25px;
+    border-radius:25px;
+    padding:10px;
 }
 .wheel
 {

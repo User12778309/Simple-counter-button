@@ -4,9 +4,14 @@
     <html lang="fr">
     <title>Roulette</title>
     </html>
+    <script src="main.js"></script>
 </head>
-<body>
+<body id="body">
     <div align="center">
-        <canvas class="wheel" width="200" height="120" style="border:1px solid #d3d3d3;"></canvas>
+        <button class="dark_mode_button" id="dark_mode_button" onclick="dark_mode_button()">Dark Mode</button>
+        <button class="normal_mode_button" id="normal_mode_button" onclick="normal_mode_button()">Normal Mode</button>
+    </div>
+    <div align="center">
+        <canvas id="circle" class="wheel" width="200" height="120" style="border:1px solid #d3d3d3;"></canvas>
     </div>
 </body>
