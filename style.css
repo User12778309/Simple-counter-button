@@ -42,7 +42,7 @@ body
 
 .wheel:hover
 {
-    transition:0.5s;
+    transition:0.5s ease-out;
     scale:1.25;
 }
 

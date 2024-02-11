@@ -40,4 +40,5 @@ function add_nbr()
     let nbr = document.getElementById("nombre").innerHTML
     nbr = parseInt(nbr) +1
     document.getElementById("nombre").innerHTML = (nbr)
+    document.title = ("Compteur : " + nbr)
 }
