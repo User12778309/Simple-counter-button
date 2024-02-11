@@ -57,3 +57,16 @@ body
     margin-top:100px;
     font-size:75px;
 }
+
+.reset_button
+{
+    font-size:25px;
+    border-radius:25px;
+    padding:10px;
+}
+
+.reset_button:hover
+{
+    transition:0.5s;
+    scale:1.25;
+}

@@ -15,7 +15,7 @@
 > git clone <url.git>
 
 ### Reprendre les modifs
-> git push
+> git pull
 
 ### Etat de git 
 > git status
