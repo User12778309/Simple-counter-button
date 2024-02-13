@@ -52,7 +52,7 @@ function add_nbr()
 
 function reset_button()
 {
-    nbr = 0
+    nbr = 0                                                          
     document.getElementById("nombre").innerHTML = (0)
     document.title = ("Counter : " + nbr)
 }
