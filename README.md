@@ -1,4 +1,4 @@
-# Mini Page HTML
+# Simple counter button
 
 # Git
 ```
